@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FamiousPeople</string>
+    <string name="txtBio">Shakespare Boigraphy</string>
+    <string name="txtShake">https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/william-shakespeare/william-shakespeare-biography/</string>
+    <string name="txtLin">Abarham Linclon Source Boigraphy</string>
+    <string name="txtLi">Abraham Lincoln became the United States’ 16th President in 1861, issuing the Emancipation Proclamation that declared forever free those slaves within the Confederacy in 1863. Lincoln warned the South in his Inaugural Address: “In your hands, my dissatisfied fellow countrymen, and not in mine, is the momentous issue of civil war. The government will not assail you…. You have no oath registered in Heaven to destroy the government, while I shall have the most solemn one to preserve, protect and defend it.”  Lincoln thought secession illegal, and was willing to use force to defend Federal law and the Union. When Confederate batteries fired on Fort Sumter and forced its surrender, he called on the states for 75,000 volunteers. Four more slave states joined the Confederacy but four remained within the Union. The Civil War had begun.Abraham Lincoln became the United States’ 16th President in 1861, issuing the Emancipation Proclamation that declared forever free those slaves within the Confederacy in 1863. Lincoln warned the South in his Inaugural Address: “In your hands, my dissatisfied fellow countrymen, and not in mine, is the momentous issue of civil war. The government will not assail you…. You have no oath registered in Heaven to destroy the government, while I shall have the most solemn one to preserve, protect and defend it.”  Lincoln thought secession illegal, and was willing to use force to defend Federal law and the Union. When Confederate batteries fired on Fort Sumter and forced its surrender, he called on the states for 75,000 volunteers. Four more slave states joined the Confederacy but four remained within the Union. The Civil War had begun.j</string>
+    <string name="TxtBob">Click Herer to Find Bob Marley</string>
+    <string name="bob">Robert Nesta Marley, OM was a Jamaican singer and songwriter. Considered one of the pioneers of reggae, his musical career was marked by blending elements of reggae, ska, and rocksteady, as well as forging a smooth and distinctive vocal and songwriting style. Wikipedia Born: February 6, 1945, Nine Mile, Jamaica Died: May 11, 1981, University of Miami Hospital, Miami, FL Children: Damian Marley, Ziggy Marley, Stephen Marley, MORE Songs One Love Exodus · 1977  No Woman No Cry Live! · 1975  Redemption Song Uprising · 1980  View 25+ more Quotes One good thing about music, when it hits you, you feel no pain. The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for. None but ourselves can free our minds.</string>
+    <string name="txtMo">Click to Ali Boigraphy</string>
+    <string name="txtAlber">Albert Einstein</string>
+    <string name="txBioAlber">Click Here More About Albert Einstein</string>
+    <string name="txtMart">Martina Luther King Jr</string>
+    <string name="txtBioMaet">Click here to Find more about Luther King jr</string>
+    <string name="txtLee">Bruce Lee</string>
+    <string name="txtBioB">Boigrphy of Bruce Lee</string>
+    <string name="txtIssac">Issac Newton</string>
+    <string name="txtBioIssac">Boigraphy of Issac Newton</string>
+</resources>
